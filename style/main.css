@@ -1,0 +1,14 @@
+html{
+    width:1000px;  }
+ul{
+    list-style-type:none;  }
+li a{
+    text-decoration: none;  }
+li {
+    display:inline-block;  }
+h1 {
+    border: 1px solid black;
+    font-size: 225%;
+}
+h1>img {
+    width:150px;  }
