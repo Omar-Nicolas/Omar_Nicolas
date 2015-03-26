@@ -1,0 +1,562 @@
+.barre{
+    border: 0 none;
+    background-color: #1c4170;
+    color: #fff;
+    font-family: "Dosis","HelveticaNeue","Helvetica Neue",sans-serif;
+    font-size: 14px;
+    padding :0px;
+    width: 210px;
+    height: 40px;
+    display: inline-block;
+    position: absolute;
+    top: 105px;
+    bottom: 0px;
+    right: 0px;
+    left: 713px;
+    padding-left: 20px;
+    
+
+}
+
+.search_bar_submit{
+    border: 0 none;
+    background-color: #1c4170;
+    color: #fff;
+    font-family: "Dosis","HelveticaNeue","Helvetica Neue",sans-serif;
+    font-size: 17px;
+    position: absolute;
+    width: 42px;
+    height: 40px;
+    padding :0px;
+    position: absolute;
+    top: 105px;
+    bottom: 0px;
+    right: 0px;
+    left: 923px;
+}
+
+.barre_de_recherche{
+    width: 400px;
+    height: 70px;
+    position: absolute;
+    top: 105px;
+    bottom: 0px;
+    right: 0px;
+    left: 850px;
+    display:inline-block;
+}
+
+.logo{
+    font-size: -webkit-xxx-large;
+}
+
+.carte{
+        display: inline-block;
+    position: absolute;
+    top: 105px;
+    bottom: 0px;
+    right: 23px;
+    left: 1000px;
+    height: 40px;
+    width: 100px;
+    height: 40px;
+
+}
+.signinorcreateaccount{
+    width: 300px;
+    height: 30px;
+    position: absolute;
+    top: 33px;
+    bottom: 0px;
+    right: 0px;
+    left: 936px;
+}
+
+.or{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 63px;
+}
+.Create_an_Account{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 98px;
+
+}
+.lien_entete
+{
+    text-decoration: none;color: #ffffff;
+}
+.lang_mail{
+    position: absolute;
+    top: 3px;
+    bottom: 0px;
+    right: 0px;
+    left: 1089px;
+
+}
+.mailto{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 2px;
+    margin-bottom: 0px;
+    margin-left: 107px;
+    bottom: 0px;
+    margin-top: 0px;
+    height: 20px;
+    width: 150px;
+}
+
+
+.img{
+    width: 22px;height: 22px;
+}
+
+/*************************************Menu******************************/
+.menu_nav {
+    list-style-type: none;
+    position: absolute;
+    margin-top: 0px;
+    margin-top: 0px;
+    padding-left: 140px;
+
+}
+
+.menubar{
+    float: left;
+    margin-right: 30px;
+    font-weight: 600;
+    font-size: 18px;
+    text-transform: uppercase;
+
+    margin-top: 13px;
+}
+/*******************************AboutUS********************************/
+.WrapperAboutUs{
+    width: 1000px;
+
+    padding-left: 275px;
+    margin-top: 15px;
+    padding-right: 50px;
+    height: 419px;
+
+}
+
+.navigationRapide{
+    width:100%;
+
+
+    border-bottom: 1px solid #ececec;
+    height: 30px;
+
+}
+.navigationRapide h4{
+    margin: 0px 0px;
+}
+.lienhome{
+    font-size: 13px;
+    color:#585858;
+    margin: 0px 0px;
+    float: left;
+    font-family: "HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding-right: 7px;
+    margin-right: 7px;
+}
+
+.aboutUs
+{   text-align: justify;
+    padding-top: 30px;
+    font-size: 15px;
+    line-height: 1.6;
+    font-family: "HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #585858;
+}
+#strongText{
+    font-weight: bold;
+}
+/********************************PRODUCT*******************/
+#content
+{
+    width: 100%;
+
+    height: 600px;
+}
+#droite{
+    float: right;
+    /*display: inline-block;*/
+
+    width: 78%;
+    height: 500px;
+}
+#gauche{
+    width: 216px;
+    float: right;
+
+    /*display: inline-block;*/
+     height: 500px;
+}
+.wrapperGauche
+{
+    width: 81%;
+
+    padding-top: 50px;
+    border-right: 1px solid #ececec;
+
+}
+.modifh3gauche{
+    font-family: "Open Sans","HelveticaNeue","Helvetica Neue",sans-serif;
+}
+
+.poz{
+    line-height: 30px;
+}
+
+
+.computers{margin-left: 25px;}
+
+#ordi1{ display: inline-block;width: 30%;}
+#ordi2{
+    display: inline-block;
+    width: 30%;
+    position: absolute;
+    top: 345px;
+    bottom: 0px;
+    left: 754px;
+    right: 0px;}
+#ordi3 {
+    display: inline-block;
+    width: 30%;
+    position: absolute;
+    top: 345px;
+    bottom: 0px;
+    left: 1019px;
+    right: 0px;}
+
+#ordi4{
+    display: inline-block;
+    width: 30%;
+    position: absolute;
+    top: 707px;
+    bottom: 0px;
+    left: 514px;
+    right: 0px;}
+
+#ordi5{
+    display: inline-block;
+    width: 30%;
+    position: absolute;
+    top: 707px;
+    bottom: 0px;
+    left: 772px;
+    right: 0px;
+}
+
+.textcomputers{
+    color: #585858;
+    font-size: 15px;
+    line-height: 1.6;
+    font-family: "HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.prixComputers{
+    margin-bottom: 15px;
+    color: #000;
+    line-height: 22px;
+    font-size: 1.733em;
+    font-family: "Open Sans","HelveticaNeue","Helvetica Neue",sans-serif;
+    font-weight: 600;
+    display: block;
+}
+.structurationrabais{
+    display: block;
+    margin-bottom: 10px;
+    line-height: 22px;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 900;
+    padding: 0 8px;
+    border-radius: 3px;
+    vertical-align: text-bottom;
+    color: #204a80;
+    border: 2px solid #204a80;
+    font-family: "HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.labelordi1{
+    padding-top: 15px;
+    width: 200px;
+    height: 24px;
+    display: inline-block;
+}
+.computer1{
+    padding-top: 18px;
+}
+/*****************************ProductCraectristique**********************/
+.WrapperProductCareteristique{
+    width: 1000px;
+
+    padding-left: 275px;
+    margin-top: 15px;
+    padding-right: 50px;
+    height: 550px;
+
+}
+.Productcraecteristique{
+    width:100%;
+    height: 100%;
+    height: 600px;
+    border-bottom-width: 1px;
+    border-bottom: 1px solid #ececec;
+}
+.imageAgrandie{width: 40%;height: 100%;display:inline-block;}
+.crecteristique{width: 55%;height: 100%;display: inline-block;  }
+
+#ordi1Agrandi{
+    display: block;
+    width: 400px;
+}
+.caracinformation{
+    width: 100%;
+    height: 30%;
+    float: right;
+    border-bottom-width: 1px;
+    border-bottom: 1px solid #ececec;
+}
+.caracloremipsum{
+    width: 100%;
+    height: 67%;
+}
+.textcomputersCarac{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.applique{
+    display : inline-block;
+}
+#ordi1carac{
+    width: 500px;
+}
+.fontapp{  font-size: 2.733em;  font-weight: 800;  margin-right: 20px;}
+
+.rabaiscarac{
+
+    position: absolute;
+    top: 351px;
+    right: 321px;
+    font-weight: 900;
+    font-size: 16px;
+
+
+}
+.eavalcarac{
+
+    position: absolute;
+    top: 357px;
+    right: 135px;
+}
+#addtocart{
+    position: absolute;
+    right: 511px;
+    top: 405px;
+}
+
+#lorem{
+    text-align: justify;
+    position: absolute;
+    top:471px;
+    right: 165px;
+    color: rgb(88, 88, 88);
+    font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 24px;
+    width: 500px;
+}
+#icon1{
+    position: absolute;
+    top: 745px;
+    right: 587px;
+}
+#icon2{
+    position: absolute;
+    top: 745px;
+    right: 491px;
+}
+#icon3{
+    position: absolute;
+    top: 745px;
+    right: 391px;
+
+}
+#icon4{
+    position: absolute;
+    top: 745px;
+    right: 293px;
+
+}
+
+/*****************************Inscription****************************/
+
+
+.WrapperInscription{
+    width: 1000px;
+
+    padding-left: 275px;
+    margin-top: 15px;
+    padding-right: 50px;
+    height: 419px;
+    margin-bottom: 50px;
+}
+#inscri{
+    width: 100%;height: 100%;
+    padding-left: 25%;
+}
+.formulaire{
+    display:block;
+    border-bottom-color: rgb(236, 236, 236);
+    box-sizing: border-box;
+    color: rgb(88, 88, 88);
+    display: block;
+    font-family: HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 21.3px;
+    margin-bottom: 20px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-top: 8px;
+    width: 313px;
+    border: 1px solid #ececec;
+}
+#CreateAcount{
+    display: block;
+    font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    height: 36px;
+    line-height: 36px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    padding-left: 25px;
+}
+#create{
+    display: inline-block;
+    padding: 8px 20px;
+    text-align: center;
+    border: 1px solid transparent;
+    border-radius: 7px;
+    font-family: "Dosis","HelveticaNeue","Helvetica Neue",sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    background-color: #204a80;
+    color: #fff;
+    margin-left: 100px;
+}
+.Return_t_ostore{
+    margin-left: 94px;
+    font-family: "HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 13px;
+}
+.lienReturn{
+    color: #204a80;
+}
+
+/*********************************signIn**************************/
+.signIn {
+    width: 1000px;
+
+    padding-left: 275px;
+    margin-top: 15px;
+    padding-right: 50px;
+    height: 419px;
+    margin-bottom: 50px;
+}
+#forgotpass{
+    display: block;
+    padding-bottom: 12px;
+    padding-left: 83px;
+    font-weight: bold;
+}
+.Signinn{
+    padding-left: 97px;
+
+}
+
+/*********************************footer***************************/
+
+#footer{
+    margin-top: 30px;
+    width:1350px;
+    background-color:#F2F2F2 ;
+
+}
+
+a {
+    text-decoration: none;
+    color:black;
+}
+
+#snetwork>li{
+    display:inline-block;
+
+}
+#snetwork{
+    padding-left:0;
+}
+#linksgetintouchnewsletter{
+    border-bottom:1px solid lightgray;
+    padding-left: 100px;
+    padding-right:75px;
+}
+#links{
+    position:relative;
+    width:30%;
+    display:inline-block;
+    top:-22px;
+
+}
+#getintouch{
+
+    width:30%;
+    display:inline-block;
+    text-align: center;
+}
+#newsletter{
+    position:relative;
+    width:30%;
+    display:inline-block;
+    text-align: right;
+    top:-58px;
+}
+#newsletter>h3{
+    text-align: left;
+    padding-left:125px;
+}
+#quicklinks{
+    padding-left: 0px;
+}
+#termsconditionspolicy{
+    padding-bottom:0;
+}
+#termsconditionspolicy>li{
+    position:relative;
+    display:inline-block;
+}
+#aboutus>li{
+    list-style-type: none;
+    display:inline-block;
+}
+#termsconditionspolicy>ul{
+    padding-left:100px;
+}
+#termsconditionspolicy>p{
+    padding-left: 100px;
+
+    position:relative;
+    bottom:12px;
+}
